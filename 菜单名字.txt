@@ -1,0 +1,9 @@
+menu:
+  首页: /
+  归档: /archives
+  分类: /categories
+  标签: /tags
+  友链: /links
+  推文: /changelog
+  网盘: http://101.37.145.240/
+  关于: /about
