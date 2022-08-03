@@ -3,11 +3,11 @@
   <title>Kaki Blog</title>
   <icon>https://www.gravatar.com/avatar/06f57b37ba43d4afc18bdf738564422f</icon>
   <subtitle>blog</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://chou076.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2022-08-03T10:30:01.850Z</updated>
-  <id>http://example.com/</id>
+  <link href="http://chou076.github.io/"/>
+  <updated>2022-08-03T18:29:56.063Z</updated>
+  <id>http://chou076.github.io/</id>
   
   <author>
     <name>Kaki</name>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>我的第一篇博客</title>
-    <link href="http://example.com/2022/08/01/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://example.com/2022/08/01/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
+    <link href="http://chou076.github.io/2022/08/01/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://chou076.github.io/2022/08/01/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
     <published>2022-08-01T11:18:01.000Z</published>
-    <updated>2022-08-03T10:30:01.850Z</updated>
+    <updated>2022-08-03T18:29:56.063Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="你好"><a href="#你好" class="headerlink" title="你好"></a>你好</h1><p>这是我的第一篇<code>Hexo</code>博客文章</p>]]></content>
     
@@ -33,19 +33,19 @@
     
     
     
-    <category term="文章" scheme="http://example.com/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="文章" scheme="http://chou076.github.io/categories/%E6%96%87%E7%AB%A0/"/>
     
     
-    <category term="无聊" scheme="http://example.com/tags/%E6%97%A0%E8%81%8A/"/>
+    <category term="无聊" scheme="http://chou076.github.io/tags/%E6%97%A0%E8%81%8A/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2022/08/01/hello-world/"/>
-    <id>http://example.com/2022/08/01/hello-world/</id>
+    <link href="http://chou076.github.io/2022/08/01/hello-world/"/>
+    <id>http://chou076.github.io/2022/08/01/hello-world/</id>
     <published>2022-08-01T10:16:44.946Z</published>
-    <updated>2022-08-01T19:26:58.476Z</updated>
+    <updated>2022-08-03T18:25:37.590Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre><code class="lang-bash">$ hexo new &quot;My New Post&quot;</code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre><code class="lang-bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre><code class="lang-bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre><code class="lang-bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
@@ -57,10 +57,10 @@
     
     
     
-    <category term="Hello World" scheme="http://example.com/categories/Hello-World/"/>
+    <category term="Hello World" scheme="http://chou076.github.io/categories/Hello-World/"/>
     
     
-    <category term="Hello World" scheme="http://example.com/tags/Hello-World/"/>
+    <category term="Hello World" scheme="http://chou076.github.io/tags/Hello-World/"/>
     
   </entry>
   
