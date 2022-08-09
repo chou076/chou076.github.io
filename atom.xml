@@ -3,11 +3,11 @@
   <title>Kaki Blog</title>
   <icon>https://www.gravatar.com/avatar/06f57b37ba43d4afc18bdf738564422f</icon>
   <subtitle>blog</subtitle>
-  <link href="https://ikak.top/atom.xml" rel="self"/>
+  <link href="https://chou076.github.io/atom.xml" rel="self"/>
   
-  <link href="https://ikak.top/"/>
+  <link href="https://chou076.github.io/"/>
   <updated>2022-08-03T18:29:56.063Z</updated>
-  <id>https://ikak.top/</id>
+  <id>https://chou076.github.io/</id>
   
   <author>
     <name>Kaki</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>我的第一篇博客</title>
-    <link href="https://ikak.top/2022/08/01/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
-    <id>https://ikak.top/2022/08/01/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
+    <link href="https://chou076.github.io/2022/08/01/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://chou076.github.io/2022/08/01/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
     <published>2022-08-01T11:18:01.000Z</published>
     <updated>2022-08-03T18:29:56.063Z</updated>
     
@@ -33,17 +33,17 @@
     
     
     
-    <category term="文章" scheme="https://ikak.top/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="文章" scheme="https://chou076.github.io/categories/%E6%96%87%E7%AB%A0/"/>
     
     
-    <category term="无聊" scheme="https://ikak.top/tags/%E6%97%A0%E8%81%8A/"/>
+    <category term="无聊" scheme="https://chou076.github.io/tags/%E6%97%A0%E8%81%8A/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://ikak.top/2022/08/01/hello-world/"/>
-    <id>https://ikak.top/2022/08/01/hello-world/</id>
+    <link href="https://chou076.github.io/2022/08/01/hello-world/"/>
+    <id>https://chou076.github.io/2022/08/01/hello-world/</id>
     <published>2022-08-01T10:16:44.946Z</published>
     <updated>2022-08-03T18:25:37.590Z</updated>
     
@@ -57,10 +57,10 @@
     
     
     
-    <category term="Hello World" scheme="https://ikak.top/categories/Hello-World/"/>
+    <category term="Hello World" scheme="https://chou076.github.io/categories/Hello-World/"/>
     
     
-    <category term="Hello World" scheme="https://ikak.top/tags/Hello-World/"/>
+    <category term="Hello World" scheme="https://chou076.github.io/tags/Hello-World/"/>
     
   </entry>
   
