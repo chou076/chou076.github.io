@@ -21,3 +21,4 @@ fetch('https://weibo-9qsvnblo6-pc-study.vercel.app/api').then(data=>data.json())
 ).catch(function(error) {
     console.log(error);
 });
+
