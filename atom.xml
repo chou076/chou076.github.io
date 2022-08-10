@@ -3,11 +3,11 @@
   <title>Kaki Blog</title>
   <icon>https://www.gravatar.com/avatar/06f57b37ba43d4afc18bdf738564422f</icon>
   <subtitle>blog</subtitle>
-  <link href="https://chou076.github.io/atom.xml" rel="self"/>
+  <link href="https://ikak.top/atom.xml" rel="self"/>
   
-  <link href="https://chou076.github.io/"/>
-  <updated>2022-08-03T18:29:56.063Z</updated>
-  <id>https://chou076.github.io/</id>
+  <link href="https://ikak.top/"/>
+  <updated>2022-08-10T22:11:35.500Z</updated>
+  <id>https://ikak.top/</id>
   
   <author>
     <name>Kaki</name>
@@ -18,12 +18,12 @@
   
   <entry>
     <title>我的第一篇博客</title>
-    <link href="https://chou076.github.io/2022/08/01/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
-    <id>https://chou076.github.io/2022/08/01/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
+    <link href="https://ikak.top/2022/08/01/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://ikak.top/2022/08/01/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
     <published>2022-08-01T11:18:01.000Z</published>
-    <updated>2022-08-03T18:29:56.063Z</updated>
+    <updated>2022-08-10T22:11:35.500Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="你好"><a href="#你好" class="headerlink" title="你好"></a>你好</h1><p>这是我的第一篇<code>Hexo</code>博客文章</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h2 id="你好"><a href="#你好" class="headerlink" title="你好"></a>你好</h2><h3 id="这是我的第一篇Hexo博客文章"><a href="#这是我的第一篇Hexo博客文章" class="headerlink" title="这是我的第一篇Hexo博客文章"></a>这是我的第一篇<code>Hexo</code>博客文章</h3>]]></content>
     
     
       
@@ -33,17 +33,17 @@
     
     
     
-    <category term="文章" scheme="https://chou076.github.io/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="文章" scheme="https://ikak.top/categories/%E6%96%87%E7%AB%A0/"/>
     
     
-    <category term="无聊" scheme="https://chou076.github.io/tags/%E6%97%A0%E8%81%8A/"/>
+    <category term="文章" scheme="https://ikak.top/tags/%E6%96%87%E7%AB%A0/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://chou076.github.io/2022/08/01/hello-world/"/>
-    <id>https://chou076.github.io/2022/08/01/hello-world/</id>
+    <link href="https://ikak.top/2022/08/01/hello-world/"/>
+    <id>https://ikak.top/2022/08/01/hello-world/</id>
     <published>2022-08-01T10:16:44.946Z</published>
     <updated>2022-08-03T18:25:37.590Z</updated>
     
@@ -57,10 +57,10 @@
     
     
     
-    <category term="Hello World" scheme="https://chou076.github.io/categories/Hello-World/"/>
+    <category term="Hello World" scheme="https://ikak.top/categories/Hello-World/"/>
     
     
-    <category term="Hello World" scheme="https://chou076.github.io/tags/Hello-World/"/>
+    <category term="Hello World" scheme="https://ikak.top/tags/Hello-World/"/>
     
   </entry>
   
